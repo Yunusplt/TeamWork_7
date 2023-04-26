@@ -1,0 +1,1 @@
+<!-- Interview questions are here. other question are in png files -->
